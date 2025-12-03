@@ -1,0 +1,2 @@
+# funfind
+Discover fun
